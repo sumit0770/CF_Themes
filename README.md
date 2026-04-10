@@ -14,11 +14,11 @@ Choose from 50 unique palettes, including:
 ## 📸 Screenshots
 | **Dracula (Default)** | **One Dark** |
 | :---: | :---: |
-| ![Dracula](assets/screenshots/dracula.png) | ![One Dark](screenshots/one_dark.png) |
+| ![Dracula](assets/screenshots/dracula.png) | ![One Dark](assests/screenshots/one_dark.png) |
 
 | **Monokai** | **Tokyo Night** |
 | :---: | :---: |
-| ![Monokai](screenshots/monokai.png) | ![Tokyo Night](screenshots/tokyo_night.png) |
+| ![Monokai](assets/screenshots/monokai.png) | ![Tokyo Night](assests/screenshots/tokyo_night.png) |
 
 ---
 
